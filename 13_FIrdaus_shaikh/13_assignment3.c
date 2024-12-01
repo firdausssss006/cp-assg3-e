@@ -93,8 +93,9 @@ Temperature Conversion Menu:
 2. Celsius to Kelvin
 3. Kelvin to Fahrenheit
 4. Exit
-Enter your choice: 258
-Invalid choice! Please try again.
+Enter your choice: 3
+Enter temperature in Kelvin: 253
+253.00 Kelvin is equal to -4.27 Fahrenheit
 
 Temperature Conversion Menu:
 1. Celsius to Fahrenheit
